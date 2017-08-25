@@ -1,0 +1,32 @@
+input{
+    margin: 10px;
+    border: 2px dashed #a53209;
+    height: 21px;
+}
+
+input[type='submit']{
+    text-align: center;
+    background-color: #BFA832;
+    padding: 10px;
+    height: 40px;
+}
+form{
+    border: 2px solid #3e7540;
+    width: 342px;
+    text-align: right;
+    font-size: 21px;
+}
+
+th{
+    margin: 10px;
+    font-size: 18px;
+}
+
+#tableheader{
+    border: 3px solid black;
+}
+
+table{
+    display: inline-block;
+}
+
